@@ -15,7 +15,7 @@
 }
 
 .text-dark{
-    color: #1999b2 !important;
+    color: #45bbbd !important;
 }
 
 .text-primary{
@@ -28,6 +28,16 @@
     margin-right: 1.5rem;
 }
 
+.doghouse{
+    max-width: 20%;
+    margin-right: 20px;
+    
+}
+
+.food{
+    max-width: 20%;
+    margin-right: 20px;
+}
 /* .text-uppercase {
     text-transform: none !important;
 } */
